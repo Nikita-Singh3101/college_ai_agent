@@ -27,7 +27,6 @@ The project manages the following data categories:
 ## Future Enhancements
 - AI-powered tool selection
 - Automated attendance calculations
-- PDF, DOCX, and TXT processing
 - Database integration
 - REST API development
 
